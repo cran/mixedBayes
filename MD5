@@ -1,8 +1,8 @@
-c1e69b93e4aa725dd4621442bfeac123 *DESCRIPTION
+6ae8605c22e7e4701993ff8bc17b42a6 *DESCRIPTION
 cba93c8bdc5fc283ed7e1f23f5e8ca93 *NAMESPACE
-6f0d2f4a01b6b088f3fcf66d85ab1bc2 *NEWS.md
-4d4f7c6d4e04c7baec946938820f9730 *R/LONBGLSS.R
-6fe7e4d8132f58af02f5d1865bbb249d *R/LONRBGLSS.R
+0c4a1d4c728482589996c36c80a73359 *NEWS.md
+1a6b7f64ed19c22148dcf274e6cbd5aa *R/LONBGLSS.R
+9f84df698e96cc4f6fdad42421fdac79 *R/LONRBGLSS.R
 cf801bdeeef19f39c9b93b3243d1d86b *R/RcppExports.R
 f7e7c17ae95230faf2af2c83f756248a *R/data.R
 80029ee28dfbd4de70090a8fe9b2fe04 *R/fun.R
@@ -12,8 +12,8 @@ a98f9d0e98acb0512e77bf4dea943326 *R/mpm.R
 c952a5610449a6340ba35a985efafc99 *R/selection.R
 baa5f239817c2d0bca4793b98d934bfb *R/selection_nonsparse.R
 ddd6155925dc542b198aeb02bba0cce2 *R/selection_sparse.R
-2520f89489e28693c4d46e18fff7f68a *README.md
-b52aabe9a2757fc86742763db9dafc9b *build/partial.rdb
+49dd32391fd2092c310e20ac3ccd0db1 *README.md
+1bf18d9c216b8d95033f0bd2fe2906b2 *build/partial.rdb
 0266cb4c643179601eaffe94283339cc *data/data.rda
 43e52954ea156405cf8978d13166be21 *man/data.Rd
 a190f8376169f9c42abc9923acbb4616 *man/mixedBayes-package.Rd
