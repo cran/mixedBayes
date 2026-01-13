@@ -1,7 +1,5 @@
 #' Variable selection for a mixedBayes object
 #'
-#' Variable selection for a mixedBayes object
-#'
 #' @param obj mixedBayes object.
 #' @param sparse logical flag. If TRUE, spike-and-slab priors will be used to shrink coefficients of irrelevant covariates to zero exactly..
 #'
@@ -38,10 +36,10 @@
 #' @export
 selection = function(obj,sparse){
   if(sparse){
-    index = selection_sparse(obj,burn.in=obj$burn.in)
+    index = selection_sparse(obj)
   }
   else{
-    index = selection_nonsparse(obj,burn.in=obj$burn.in)
+    index = selection_nonsparse(obj)
   }
   out = index
   out

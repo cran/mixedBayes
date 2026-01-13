@@ -1,5 +1,14 @@
 
 ## News
+
+### mixedBayes 0.2.0 \[2026-01-12\]
+
+- Added function `predict_mixedBayes` for making predictions based on fitted mixedBayes models.
+- Added function `GE` for creating gene-environment interaction terms.
+- Added function `reformat` for creating long format data for longitudinal analysis.
+- Fixed minor bugs.
+- Updated the documentation.
+
 ### mixedBayes 0.1.12 \[2025-12-20\]
 
 - Minor bug fixes and improvements.
