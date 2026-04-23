@@ -1,8 +1,8 @@
 Package: mixedBayes
 Type: Package
 Title: Bayesian Longitudinal Regularized Quantile Mixed Model
-Version: 0.2.4
-Date: 2026-04-13
+Version: 0.2.5
+Date: 2026-04-23
 Authors@R: c( person("Kun", "Fan", role = c("aut", "cre") , email = "fzt0428@gmail.com"),
               person("Shejuty", "Devnath", role = "aut"),
               person("Cen", "Wu", role = "aut"))
@@ -16,10 +16,10 @@ Imports: Rcpp
 LinkingTo: Rcpp, RcppArmadillo
 RoxygenNote: 7.3.3
 NeedsCompilation: yes
-Packaged: 2026-04-13 13:12:42 UTC; kunfan
+Packaged: 2026-04-23 06:13:25 UTC; kunfan
 Author: Kun Fan [aut, cre],
   Shejuty Devnath [aut],
   Cen Wu [aut]
 Maintainer: Kun Fan <fzt0428@gmail.com>
 Repository: CRAN
-Date/Publication: 2026-04-13 14:40:14 UTC
+Date/Publication: 2026-04-23 06:30:02 UTC
